@@ -38,9 +38,9 @@
    ```env
    DB_USER=your_username
    DB_PASSWORD=your_password
-   DB_HOST=172.16.1.243
-   DB_PORT=3306
-   DB_NAME=jk_cloud_data_dwd
+   DB_HOST=
+   DB_PORT=
+   DB_NAME=
    ```
 5. 启动后端服务：
    ```bash
